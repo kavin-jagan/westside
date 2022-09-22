@@ -23,7 +23,7 @@ public class Sample {
 		
 		System.out.println("Iterate usuing enchanced for loop");
 		System.out.println("kavin iterate");
-		
+		System.out.println("kavin  jagan iterate");
 		for (Integer x : li) {
 			System.out.println(x);
 		}
