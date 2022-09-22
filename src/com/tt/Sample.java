@@ -13,7 +13,7 @@ public class Sample {
 		li.add(30);
 		li.add(40);
 		
-		
+		System.out.println("Cristiano");
 		System.out.println("Iterate using normal for loop");
 		for (int i =0; i < li.size(); i++) {
 			System.out.println(li.get(i));
@@ -23,7 +23,7 @@ public class Sample {
 		
 		System.out.println("Iterate usuing enchanced for loop");
 		System.out.println("kavin iterate");
-		
+		System.out.println("kavin  jagan iterate");
 		for (Integer x : li) {
 			System.out.println(x);
 		}
