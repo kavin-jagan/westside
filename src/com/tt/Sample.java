@@ -13,7 +13,7 @@ public class Sample {
 		li.add(30);
 		li.add(40);
 		
-		
+		System.out.println("Cristiano");
 		System.out.println("Iterate using normal for loop");
 		for (int i =0; i < li.size(); i++) {
 			System.out.println(li.get(i));
